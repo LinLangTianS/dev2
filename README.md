@@ -9,20 +9,21 @@ Python 3.9.12(Anaconda 3)
 Vscode 1.93.1
 
 #### 安装库
-1.pandas
+1. pandas
 
-2.matplotlib
+2. matplotlib
 
-3.mlxtend:machine learning extensions(机器学习扩展)，是一个用于日常数据分析、机器学习建模的有用Python库。mlxtend可以用作模型的可解释性，包括统计评估、数据模式、图像提取等。
+3. mlxtend:machine learning extensions(机器学习扩展)，是一个用于日常数据分析、机器学习建模的有用Python库。mlxtend可以用作模型的可解释性，包括统计评估、数据模式、图像提取等。
+安装：
 
-4.surprise:是一个基于Python的推荐系统开发库，其主要功能包括协同过滤、矩阵分解等推荐算法。
+4. surprise:是一个基于Python的推荐系统开发库，其主要功能包括协同过滤、矩阵分解等推荐算法。
 
 安装：conda install -c conda-forge scikit-surprise --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 
 #### 参与贡献
 
 第6组成员：
-1.  舒双林
-2.  王子衿
-3.  费奥雨
-4.  魏亚琪
+- 舒双林
+- 王子衿
+- 费奥雨
+- 魏亚琪
