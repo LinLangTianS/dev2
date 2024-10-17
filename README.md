@@ -17,7 +17,9 @@ Vscode 1.93.1
 安装：
 
 4. surprise:是一个基于Python的推荐系统开发库，其主要功能包括协同过滤、矩阵分解等推荐算法。
+'''
 安装：conda install -c conda-forge scikit-surprise --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+'''
 
 #### 参与贡献
 
