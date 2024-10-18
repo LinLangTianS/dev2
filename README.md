@@ -4,7 +4,7 @@
 商业数据挖掘_Ch.14关联规则和协同过滤
 
 #### 运行环境
-Python 3.9.12(Anaconda 3)<br>
+Python 3.8.20<br>
 Vscode 1.93.1
 
 #### 安装库
