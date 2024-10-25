@@ -11,7 +11,7 @@ Vscode 1.93.1
 ```
 #### 安装库
 ##### Python
-```python
+```
 1. pandas
 
 2. matplotlib
@@ -23,7 +23,7 @@ Vscode 1.93.1
 安装：conda install -c conda-forge scikit-surprise
 ```
 ##### R
-```R
+```
 1. arules:提供了用于关联规则挖掘的基本功能，包括频繁项集和关联规则的发现。
 安装：install.packages("arules")
 
